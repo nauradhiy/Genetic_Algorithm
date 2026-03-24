@@ -1,4 +1,4 @@
-# Lung Cancer Detection via miRNA: Genetic Algorithm-Based DNA Probe Design for ITB iGEM Team
+# Lung Cancer Detection via miRNA: Genetic Algorithm-Based DNA Probe Design for ITB iGEM Team :dna:
 
 ## Project Context
 This research was developed as a direct computational contribution to the ITB iGEM (International Genetically Engineered Machine) competition team, representing Institut Teknologi Bandung in one of the world's most prestigious synthetic biology competitions. The DNA probe sequences produced in this project were designed in close collaboration with ITB Microbiology Department team, who defined the biological parameters and requirements the sequences must satisfy. The mathematically optimized sequences are intended for wet laboratory research in Singapore, where experimental costs are exceptionally high, making computational pre-validation not just beneficial but financially critical before any physical synthesis is ordered.
