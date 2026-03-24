@@ -84,5 +84,12 @@ Before committing to the Singapore laboratory procedure, it is advisable to veri
 5. **Document and Archive the Optimization Pipeline for ITB iGEM Knowledge Transfer**\
 The methodology and Python codebase developed in this research represent reusable institutional knowledge for the ITB iGEM team. Formal documentation ensures future team members can leverage and build upon this computational approach without starting from scratch.
 
-> Thermodynamic Reference: SantaLucia, J., Jr., and Hicks, D. (2004). The Thermodynamics of DNA Structural Motifs. Annual Review of Biophysics and Biomolecular Structure, 33, 415-440.
+> Thermodynamic Reference: SantaLucia, J., Jr., and Hicks, D. (2004). The Thermodynamics of DNA Structural Motifs. Annual Review of Biophysics and Biomolecular Structure, 33, 415-440.\
+
 *This research was developed as a computational contribution to the ITB iGEM competition team. All sequences are intended for research purposes only.*
+
+
+
+
+
+
