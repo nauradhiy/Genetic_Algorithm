@@ -49,6 +49,8 @@ Implemented a two-phase **Genetic Algorithm optimization pipeline** in Python wi
 | GC Content Constraint | 40% to 60% |
 | Thermodynamic Reference | SantaLucia and Hicks (2004), nearest-neighbor parameters |
 
+![image alt](https://github.com/nauradhiy/Genetic_Algorithm/blob/c17b59a6968ae2f7bb5babe319b522c07e2d7416/Genetic%20Algorithm%20Flowchart.png)
+
 ## Data Architecture 
 Sourced thermodynamic reference data from two peer-reviewed tables in SantaLucia and Hicks (2004): loop free energy contributions by loop size for hairpin, bulge, and internal loops under 1 M NaCl conditions, and nearest-neighbor stacking parameters (ΔH°, ΔS°, ΔG°37) for all 10 Watson-Crick DNA base pair propagation sequences. These datasets were encoded directly into the Python optimization engine to power real-time fitness evaluation across all candidate sequences during evolutionary cycles.
 
